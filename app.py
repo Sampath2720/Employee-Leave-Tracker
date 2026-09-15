@@ -84,7 +84,7 @@ def home():
                 <td>EMP004</td>
                 <td>Surya</td>
                 <td>Earned Leave</td>
-                <td>5</td>
+                <td>4</td>
                 <td>Approved</td>
             </tr>
 
