@@ -78,7 +78,13 @@ def home():
                 <td>3</td>
                 <td>Pending</td>
             </tr>
-
+            <tr>
+                <td>EMP008</td>
+                <td>Murali</td>
+                <td>Casual Leave</td>
+                <td>1</td>
+                <td>Approved</td>
+            </tr>
             <tr>
                 <td>EMP003</td>
                 <td>Jay</td>
