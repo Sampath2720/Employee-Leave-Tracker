@@ -80,6 +80,13 @@ def home():
                 <td>5</td>
                 <td>Approved</td>
             </tr>
+             <tr>
+                <td>EMP004</td>
+                <td>Surya</td>
+                <td>Earned Leave</td>
+                <td>5</td>
+                <td>Approved</td>
+            </tr>
 
         </table>
 
